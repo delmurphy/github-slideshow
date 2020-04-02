@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Real good
+Real good :monkey:
 Use the left arrow to go back!
